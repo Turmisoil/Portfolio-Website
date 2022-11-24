@@ -1,0 +1,9 @@
+.logo > a {
+    color: green;
+    width: 42px;
+    height: 42px;
+}
+
+.hide {
+    transform: translateY(-200px);
+}
